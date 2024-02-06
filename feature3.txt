@@ -1,0 +1,5 @@
+this is from developer 1   > I have fixed this 
+
+dev-2 added some changes
+
+dev1 has changed
